@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: overline;
+    list-style: none;
+    font-family: 'Overpass', sans-serif;
+    caret-color: transparent;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: hsl(240, 29%, 17%);
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/628/445/desktop-wallpaper-woodworking-woodturning.jpg);
+    background-repeat: no-repeat;
+    color: rgba(6, 20, 78, 0.089);
+    background: linear-gradient(rgba(0, 0, 255, 0.267), rgba(255, 0, 0, 0.185));
+/* cosa */
+
+}
+
+
